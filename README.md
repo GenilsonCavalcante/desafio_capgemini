@@ -1,7 +1,7 @@
 ## DOCUMENTAÇÃO
 
-Autor: Genilson Cavalcante
-Gmail: genilsoncavalcante.freelancer@gmail.com
+* Autor: Genilson Cavalcante
+* Gmail: genilsoncavalcante.freelancer@gmail.com
 
 Olá, essa é a documentação para os códigos dos desafios da Capgmeni.
 
